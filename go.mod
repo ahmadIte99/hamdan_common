@@ -1,4 +1,4 @@
-module github.com/ahmadIte99/hamdan_common.git
+module github.com/ahmadIte99/hamdan_common
 
 go 1.16
 
