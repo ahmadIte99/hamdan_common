@@ -1,4 +1,4 @@
-module git.larsa.io/mahdawi/microservices-commons.git
+module github.com/ahmadIte99/hamdan_common.git
 
 go 1.16
 
